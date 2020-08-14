@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning PHP
+
+- 📫 How to reach me: email to fatkulnurk@gmail.com
 <!--
 **fatkulnurk/fatkulnurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
