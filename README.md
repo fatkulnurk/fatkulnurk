@@ -1,19 +1,10 @@
-### Hi there 👋
+# Fatkul Nur Koirudin --- @fatkulnurk :indonesia: :indonesia: :indonesia:
 
-- 🌱 I’m currently learning PHP
+### Tujuan Inti Pada Tahun 2020
+Saya membangun kerangka kerja micro 😃, untuk proyek akhir saya di kampus, menggunakan bahasa pemrograman PHP dan beberapa Design Pattern 😎. Lalu yang kedua membangun aplikasi yang kedepannya akan menjadi aplikasi nomor satu di asia tenggara untuk masalah pembayaran 😁 , saya membangun menggunakan Kerangka kerja Laravel 😍 dan Vuejs 😋
 
-- 📫 How to reach me: email to fatkulnurk@gmail.com
-<!--
-**fatkulnurk/fatkulnurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Buat Lebih Dekat
+- Facebook: <http://fb.me/fatkulnurk>
+- Instagram: <https://www.instagram.com/fatkul_nur_k/>
+- Linkedin: <https://www.linkedin.com/in/fatkulnurk>
+- Personal Site: <https://fatkulnurk.github.io/>
