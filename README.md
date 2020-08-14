@@ -1,5 +1,5 @@
 
-# Fatkul Nur Koirudin --- @fatkulnurk
+# Fatkul Nur Koirudin :alien: | @fatkulnurk
 Hai, saya rudi, saat ini masih belum bekerja, awal mengenal dunia juru ketik kode dari tahun 2013. My mother language is a PHP 😍 tapi kalau disuruh belajar bahasa lain saya siap :sunglasses:, asal jangan javascript (kecuali vuejs :joy:)
 
 ### Tujuan Pada Tahun 2020
@@ -13,6 +13,7 @@ Saya membangun kerangka kerja micro 😃, untuk proyek akhir saya di kampus, men
 - Jaringan :grimacing:
 - Search engine optimization (dari 2014 dah suka ini, berkat ini bisa hidup :sweat_smile: )
 - Devops (masih perlu banyak belajar lagi) :triumph:
+- siap belajar yang lain :satisfied:
 
 ### Hobi
 - Tidur :no_mouth:
