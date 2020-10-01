@@ -12,6 +12,7 @@ Saya membangun kerangka kerja micro 😃, untuk proyek akhir saya di kampus, men
 Saya tertarik pada apapun, dan selalu siap untuk belajar hal baru 😁
 
 ### Hobi
+- Memancing :tropical_fish:
 - Tidur :no_mouth:
 - Bernafas :mask:
 - Menggerakan Badan :neutral_face:
