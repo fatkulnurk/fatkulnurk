@@ -2,7 +2,7 @@
 
 ""make trouble, wait for it to be big.  Then sell the solution.""
 
-Hai, saya rudi, awal mengenal dunia juru ketik kode dari tahun 2013. My mother language is a PHP 😍 tapi kalau disuruh belajar bahasa lain saya siap :sunglasses:
+Hai, saya rudi :sunglasses:
 
 [![Fatkul github stats](https://github-readme-stats.vercel.app/api?username=fatkulnurk)](https://github.com/fatkulnurk)
 
