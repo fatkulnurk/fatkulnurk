@@ -2,7 +2,7 @@
 
 ""make trouble, wait for it to be big.  Then sell the solution.""
 
-Hai, saya rudi :sunglasses:
+Hi, i'm rudi :sunglasses: . A founder www.bayarcepat.com & www.kerupiah.com
 
 [![Fatkul github stats](https://github-readme-stats.vercel.app/api?username=fatkulnurk)](https://github.com/fatkulnurk)
 
