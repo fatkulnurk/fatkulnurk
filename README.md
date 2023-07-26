@@ -10,19 +10,19 @@ Hi, i'm rudi :sunglasses: . A founder www.bayarcepat.com, www.kerupiah.com & www
 ## ⚡ Technologies
 
 ### Backend
-![Language&Framework](https://skillicons.dev/icons?i=php,laravel,golang,javascript)
+![Language&Framework](https://skillicons.dev/icons?i=php,laravel,golang,javascript,express)
 
 ### Database 
-![Database](https://skillicons.dev/icons?i=mysql,redis,sqlite)
+![Database](https://skillicons.dev/icons?i=mysql,redis,sqlite,planetscale)
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=alpinejs,tailwindcss,vue,nuxtjs,bootstrap)
+![Frontend](https://skillicons.dev/icons?i=alpinejs,tailwindcss,vue,nuxtjs)
 
 ### DevOps
-![Tool](https://skillicons.dev/icons?i=docker,kubernetes,nginx)
+![Tool](https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,gcp,aws,azure,cloudflare,sentry)
 
 ### Others
-![Other](https://skillicons.dev/icons?i=selenium,git)
+![Other](https://skillicons.dev/icons?i=postman,selenium,git,github,gitlab)
 
 
 ## Statistics
