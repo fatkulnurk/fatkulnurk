@@ -6,13 +6,33 @@ Hi, i'm rudi :sunglasses: . A founder www.bayarcepat.com, www.kerupiah.com & www
 
 [![Fatkul github stats](https://github-readme-stats.vercel.app/api?username=fatkulnurk)](https://github.com/fatkulnurk)
 
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=fatkulnurk" alt="fatkulnurk" /></p>
+
+--- 
+
+## ⚡ Technologies
+
+
+### Backend
+![Language&Framework](https://skillicons.dev/icons?i=php,laravel,golang,javascript)
+
+### Database 
+![Database](https://skillicons.dev/icons?i=mysql,redis,sqlite)
+
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=alpinejs,tailwindcss,vue,nuxtjs,bootstrap)
+
+### DevOps
+![Tool](https://skillicons.dev/icons?i=docker,kubernetes,nginx)
+
+### Others
+![Other](https://skillicons.dev/icons?i=selenium,git)
+
+
+---
+
 ### Ketertarikan saya
 Saya tertarik pada apapun, dan selalu siap untuk belajar hal baru 😁
-
-### Hobi
-- Memancing :tropical_fish:
-- Tidur :no_mouth:
-- Bernafas :mask:
 
 ### Buat Lebih Dekat
 - Facebook: <http://fb.me/fatkulnurk>
