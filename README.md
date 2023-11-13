@@ -1,6 +1,6 @@
 # Fatkul Nur Koirudin :alien: | @fatkulnurk
 
-Hi, i'm rudi :sunglasses: . A founder www.bayarcepat.com, www.kerupiah.com & www.rupiahchain.com
+Hi, i'm rudi :sunglasses: .
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=fatkulnurk" alt="fatkulnurk" /></p>
 
