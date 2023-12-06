@@ -1,6 +1,6 @@
 # Fatkul Nur Koirudin :alien: | @fatkulnurk
 
-Hi, i'm rudi :sunglasses: .
+Hi, i'm rudi :sunglasses: . All of my client's project repositories are private, so they won't be found unless the client allows them to be published.
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=fatkulnurk" alt="fatkulnurk" /></p>
 
