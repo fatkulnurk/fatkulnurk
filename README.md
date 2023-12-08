@@ -4,6 +4,12 @@ Hi, i'm rudi :sunglasses:. Software Engineer with more than 3 years of experienc
 
 **All of my client's project repositories are private, so they won't be found unless the client allows them to be published.**
 
+My Portfolio (Web Development, Rest Api, PHP Package, and etc):
+
+https://fatkulnurk.notion.site/Portfolio-43fefaf1bbaa41fe94dff3911f0ce4d9?pvs=4
+
+---
+
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=fatkulnurk" alt="fatkulnurk" /></p>
 
 
