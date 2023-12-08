@@ -31,10 +31,6 @@ https://fatkulnurk.notion.site/Portfolio-43fefaf1bbaa41fe94dff3911f0ce4d9?pvs=4
 ![Other](https://skillicons.dev/icons?i=postman,selenium,git,github,gitlab)
 
 
-## Statistics
-[![Fatkul github stats](https://github-readme-stats.vercel.app/api?username=fatkulnurk)](https://github.com/fatkulnurk)
-
-
 ## Ketertarikan saya
 Saya tertarik pada apapun, dan selalu siap untuk belajar hal baru 😁
 
