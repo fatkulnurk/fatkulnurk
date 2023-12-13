@@ -1,6 +1,8 @@
 # Fatkul Nur Koirudin :alien: | @fatkulnurk
 
-Hi, i'm rudi :sunglasses:. Software Engineer with more than 3 years of experience as a Professional & more than 5 years of freelancing.
+Hi, i'm rudi :sunglasses:, born at January 1999 in Lamongan, Indonesia. Software Engineer with more than 3 years of experience as a Professional & more than 5 years of freelancing.
+
+---
 
 **All of my client's project repositories are private, so they won't be found unless the client allows them to be published.**
 
