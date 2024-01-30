@@ -11,6 +11,10 @@ My Portfolio (Web Development, Rest Api, PHP Package, and etc):
 https://fatkulnurk.notion.site/Portfolio-43fefaf1bbaa41fe94dff3911f0ce4d9?pvs=4
 
 ---
+<p align="center"><img src="https://raw.githubusercontent.com/fatkulnurk/fatkulnurk/eb7188839c9bfa542eb67128c37227882acfac25/Animation%20-%201706585776016.gif" alt="loading"/></p>
+
+<!-- This content will not appear in the rendered Markdown
+
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=fatkulnurk" alt="fatkulnurk" /></p>
 
@@ -32,6 +36,7 @@ https://fatkulnurk.notion.site/Portfolio-43fefaf1bbaa41fe94dff3911f0ce4d9?pvs=4
 ### Others
 ![Other](https://skillicons.dev/icons?i=postman,selenium,git,github,gitlab)
 
+ -->
 
 ## Ketertarikan saya
 Saya tertarik pada apapun, dan selalu siap untuk belajar hal baru 😁
