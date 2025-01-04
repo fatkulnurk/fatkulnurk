@@ -14,6 +14,19 @@ https://fatkulnurk.notion.site/Portfolio-43fefaf1bbaa41fe94dff3911f0ce4d9?pvs=4
  -->
 <p align="center"><a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhnYnU5cW03em9xZGg5aHMzNGlnYXNtdDlyMGRpOGdicXowaXllNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r1RPAPiC3NqhGTaqcX/giphy.gif"><img src="https://raw.githubusercontent.com/fatkulnurk/fatkulnurk/eb7188839c9bfa542eb67128c37227882acfac25/Animation%20-%201706585776016.gif" alt="loading"/></a></p>
 
+### 👀 Quick Statistics
+
+<table>
+    <tr>
+        <td style="padding=0;width=50%;">
+            <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=fatkulnurk&title_color=FB8C00&text_color=ffffff&bg_color=151515&hide_border=true&hide_title=true&show_icons=true&count_private=true" alt="basic info" />
+        </td>
+        <td style="padding=0;width=50%;">
+            <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=fatkulnurk&theme=dark&hide_border=true" alt="streak" />
+        </td>
+    </tr>
+</table>
+
 <!-- This content will not appear in the rendered Markdown
 
 
