@@ -1,6 +1,8 @@
 # Fatkul Nur Koirudin | @fatkulnurk
 
-Hi, i'm rudi :sunglasses:, born at January 1999 in Lamongan, Indonesia. Software Engineer with more than 3 years of experience as a Professional & more than 5 years of freelancing.
+Hi, I'm Rudi 😎, born in January 1999 in Lamongan, Indonesia. I've been building my career as a freelancer since 2015 and transitioned into professional roles starting in 2020. I'm a Software Engineer with a passion for coding, and I enjoy fishing in my free time! 🎣
+
+
 <!-- 
 ---
 
@@ -26,6 +28,8 @@ https://fatkulnurk.notion.site/Portfolio-43fefaf1bbaa41fe94dff3911f0ce4d9?pvs=4
         </td>
     </tr>
 </table>
+
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=fatkulnurk&theme=light" alt="fatkulnurk" /></p>
 
 <!-- This content will not appear in the rendered Markdown
 
