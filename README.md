@@ -18,6 +18,9 @@ https://fatkulnurk.notion.site/Portfolio-43fefaf1bbaa41fe94dff3911f0ce4d9?pvs=4
 
 ### 👀 Quick Statistics
 
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=fatkulnurk&theme=light" alt="fatkulnurk" /></p>
+
+<!-- This content will not appear in the rendered Markdown
 <table>
     <tr>
         <td style="padding=0;width=50%;">
@@ -28,11 +31,6 @@ https://fatkulnurk.notion.site/Portfolio-43fefaf1bbaa41fe94dff3911f0ce4d9?pvs=4
         </td>
     </tr>
 </table>
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=fatkulnurk&theme=light" alt="fatkulnurk" /></p>
-
-<!-- This content will not appear in the rendered Markdown
-
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=fatkulnurk" alt="fatkulnurk" /></p>
 
