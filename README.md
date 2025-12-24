@@ -15,4 +15,4 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=fatkulnurk&label=Profile%20views&color=0e75b6&style=flat)
+View my full portfolio at: [https://dibumi.com](https://dibumi.com)
