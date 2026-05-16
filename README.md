@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Animation%20-%201706585776016.gif" alt="Fatkul Nur Koirudin" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Fatkul Nur Koirudin 👋</h1>
 
 <p align="center">
