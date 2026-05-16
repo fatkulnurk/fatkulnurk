@@ -2,7 +2,7 @@
   <img src="Animation%20-%201706585776016.gif" alt="Fatkul Nur Koirudin" width="100%" />
 </p>
 
-<h1 align="center">Halo, Saya Fatkul Nur Koirudin 👋</h1>
+<h1 align="center">Hi, I'm Fatkul Nur Koirudin 👋</h1>
 
 <p align="center">
   <b>Backend Developer</b> · <b>Security Enthusiast</b> · <b>Performance Optimizer</b>
@@ -17,16 +17,16 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 
-Backend developer dengan pengalaman profesional sejak **2020** dan perjalanan freelance sejak **2014**. Saya spesialis dalam membangun sistem backend yang **scalable**, **secure**, dan **high-performance**.
+Freelance backend developer since **2014**, specialized in building **scalable**, **secure**, and **high-performance** systems.
 
-- 🔨 **Bangun API & Sistem Backend** — Go (Golang), PHP, Laravel, Livewire, FilamentPHP
-- 🔐 **Audit Keamanan Web** — Identifikasi celah keamanan & cegah kerentanan aplikasi
-- ⚡ **Optimasi Performa** — Page speed, database query tuning, arsitektur efisien
-- 🌱 **SEO & Web Optimization** — Teknis SEO, struktur konten, core web vitals
-- 🏗️ **Pengalaman Startup** — Lebih dari belasan startup, dari ide hingga gagal & belajar
-- 🧠 **Tech Consulting** — Pendampingan teknis untuk UKM dan tim pengembang
+- 🔨 **Backend APIs & Systems** — Go (Golang), PHP, Laravel, Livewire, FilamentPHP
+- 🔐 **Web Security Audits** — Identify vulnerabilities & prevent application threats
+- ⚡ **Performance Optimization** — Page speed, query tuning, efficient architecture
+- 🌱 **SEO & Web Optimization** — Technical SEO, content structure, core web vitals
+- 🏗️ **Startup Experience** — Built and contributed to over a dozen startups
+- 🧠 **Tech Consulting** — Technical guidance for SMEs and dev teams
 
 ---
 
@@ -60,7 +60,7 @@ Backend developer dengan pengalaman profesional sejak **2020** dan perjalanan fr
 ## 🚀 Portfolio
 
 <p align="center">
-  Lihat portofolio lengkap dan proyek-proyek saya di:<br /><br />
+  Check out my full portfolio and projects at:<br /><br />
   <a href="https://dibumi.com"><img src="https://img.shields.io/badge/dibumi.com-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
