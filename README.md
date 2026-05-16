@@ -26,18 +26,6 @@ Freelance backend developer since **2014**, specialized in building **scalable**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fatkulnurk&theme=city-lights&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatkulnurk&theme=city_lights&column=5&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 🚀 Portfolio
 
 <p align="center">
