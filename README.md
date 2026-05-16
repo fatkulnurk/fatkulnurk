@@ -26,22 +26,7 @@ Freelance backend developer since **2014**, specialized in building **scalable**
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,php,laravel,js,tailwind,alpinejs,mysql,postgres,docker,linux,git,nginx,figma&perline=13" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatkulnurk&show_icons=true&theme=city_lights&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatkulnurk&layout=compact&theme=city_lights&hide_border=true" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=fatkulnurk&theme=city-lights&hide_border=true" />
